@@ -1,0 +1,3 @@
+Youtube Tutorial
+https://www.youtube.com/watch?v=tz7mPVAGyYM
+https://blogbelajar.id/data-science-bagi-pemula-2-melakukan-analisa-data-kasus-covid19-menggunakan-pemrograman-python/
